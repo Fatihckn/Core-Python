@@ -1,0 +1,22 @@
+[
+    {
+        "İsim": "Ahmet",
+        "Soyisim": "Yılmaz",
+        "Yaş": 30
+    },
+    {
+        "İsim": "Ayşe",
+        "Soyisim": "Kaya",
+        "Yaş": 25
+    },
+    {
+        "İsim": "Mehmet",
+        "Soyisim": "Demir",
+        "Yaş": 35
+    },
+    {
+        "İsim": "Fatma",
+        "Soyisim": "Çelik",
+        "Yaş": 28
+    }
+]

@@ -1,0 +1,14 @@
+Hümeyra Çelik,75,88,92
+Kaan Aydın,65,70,75
+Zeynep Yılmaz,80,95,88
+Ali Koç,45,60,75
+Serra Kaya,92,85,78
+Ahmet Yıldız,60,70,80
+Yasmin Efe,78,92,88
+Burak Demir,55,68,70
+Sevda Deniz,85,90,95
+Mustafa Arslan,72,75,80
+Ayşe Kaya,95,88,96
+Yunus Aktaş,50,65,75
+Elif Özdemir,68,75,82
+Emre Bulut,80,82,90

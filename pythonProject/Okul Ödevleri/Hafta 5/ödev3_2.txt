@@ -1,0 +1,5 @@
+Serra Kaya,92,85,78
+Yunus Aktaş,50,65,75
+Ali Koç,45,60,75
+Sevda Deniz,85,90,95
+Mustafa Arslan,72,75,80

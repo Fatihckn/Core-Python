@@ -1,0 +1,5 @@
+200->https://python-istihza.yazbel.com/index.html
+403->https://www.yemeksepeti.com/restaurant/srbz/chef-cajun-burger
+200->https://python-istihza.yazbel.com/index.html
+200->https://www.trendyol.com/butik/liste/2/erkek
+403->https://test-english.com/grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/3/
